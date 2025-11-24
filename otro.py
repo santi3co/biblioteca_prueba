@@ -7,3 +7,5 @@ def multiplicacion (a,b):
 
 def picha():
     return "hola picha"
+
+print("otro archivo")
